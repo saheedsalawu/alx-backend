@@ -1,15 +1,15 @@
 # English translations for PROJECT.
 # Copyright (C) 2023 IMAGWE MARCUS
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <oshomarcus20@gmail.com>, 2023.
+# FIRST AUTHOR <saheedsalawu121@gmail.com>, 2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: oshomarcus20@gmail.com\n"
+"Report-Msgid-Bugs-To: saheedsalawu121@gmail.com\n"
 "POT-Creation-Date: 2023-04-25 04:45-0700\n"
 "PO-Revision-Date: 2023-04-25 04:45-0700\n"
-"Last-Translator: IMAGWE MARCUS <oshomarcus20@gmail.com>\n"
+"Last-Translator: IMAGWE MARCUS <saheedsalawu121@gmail.com>\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
